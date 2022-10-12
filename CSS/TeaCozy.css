@@ -1,0 +1,189 @@
+#tealogo{
+    opacity: 0.9;
+    margin-left: 10px;
+    height: 50px;
+}
+
+#img1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 700px;
+    width: 1200px;
+}
+
+body{
+    background-color: black;
+}
+.nav {
+    background-color: black;
+    opacity: 0.9;
+    display: inline-flex;
+    text-align: center;
+    height: 69px;
+    border-bottom: 1px solid seashell;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    color: seashell;
+}
+.nav li {
+    text-decoration: underline;
+    font-family: helvetica;
+    font-size: 22px;
+    color: seashell;
+    opacity: 0.9;
+    display: flex;
+    float: left;
+    padding-right: 25px;
+}
+.nav a{
+    color: seashell;
+    opacity: 0.9;
+}
+.nav a:hover{
+    color: blue;
+}
+.ourmission{
+    background-color: black;
+    width: 100%;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    font-family: helvetica;
+    text-align: center;
+    color: seashell;
+}
+.ourmission h2{
+    opacity: 0.9;
+    font-size: 32px ;
+}
+.ourmission h4{
+    opacity: 0.9;
+    font-size: 22px;
+}
+.middle{
+    color: seashell;
+    font-family: helvetica;
+    text-align: center;
+    opacity: 0.9;
+    padding-top: 50px;
+}
+.middle h4{
+    opacity: 0.9;
+    font-size: 22px;
+}
+.middle h2{
+    opacity: 0.9;
+    font-size: 32px;
+}
+.middlecontainer {
+    width: 1000px
+    font-family: helvetica;
+    font-family: helvetica;
+    font-size: 22px;
+    opacity: 0.9;
+    font-weight: bold;
+    text-align: center;
+    color: seashell;
+    
+
+}
+
+#berryblitz{
+    height: 200px;
+    width: 300px;
+    padding-right: 25px;
+    padding-bottom: 10px;
+    
+}
+#spicedrum{
+    height: 200px;
+    width: 300px;
+    padding-right: 25px;
+    padding-bottom: 10px;
+}
+#seasonaldonuts{
+    height: 200px;
+    width: 300px;
+    padding-bottom: 10px;
+    
+}
+#myrtle{
+    height: 200px;
+    width: 300px;
+    padding-right: 25px;
+    padding-bottom: 10px;
+    padding-top: 15px;
+}
+#bedford{
+    height: 200px;
+    width: 300px;
+    padding-bottom: 10px;
+    padding-top: 15px;
+}
+#row1{
+    display: inline-flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+#row2{
+    display: inline-flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+#locations{
+
+}
+.banner{
+   background-image: url(../Photos/img-locations-background.jpg);
+    max-width: 1200px;
+    height: 500px;
+    margin: 40px auto auto auto;
+    padding-top: 85px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.text-top{
+    font-size: 43px;
+    font-weight: bold;
+    color: seashell;
+    font-family: helvetica;
+    text-align: center;
+    opacity: 0.9;
+}
+.box-container{
+    max-width: 1050px;
+    margin: 15px auto auto auto;
+    color: seashell;
+    font-family: helvetica;
+    display: flex;
+    justify-content: space-between;
+}
+
+.box{
+    height: 300px;
+    padding: 20px;
+    flex-basis: 30%;
+    box-sizing: border-box;
+    background-color: black;
+    opacity: 0.8;
+    text-align: center;
+    margin-bottom: auto;
+    font-size: 22px;
+}
+.footer{
+    font-family: helvetica;
+    text-align: center;
+    color: seashell;
+    height: 200px;
+    font-size: 22px;
+}
+.copyright{
+    font-family: helvetica;
+    color: seashell;
+    margin-left: 20px;
+}
